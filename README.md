@@ -25,9 +25,4 @@
 
 ---
 
-## About Me
-
-```diff
-+ Passionate about building smart and secure applications.
-+ Continuously learning and experimenting with AI models and security techniques.
-- Always curious, always growing.
+<p align="center"> <a href="https://www.linkedin.com/in/safa-hichri/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://twitter.com/yourhandle" target="_blank"> <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /> </a> <a href="mailto:safa.hichri@example.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
