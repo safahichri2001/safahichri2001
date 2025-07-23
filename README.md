@@ -1,6 +1,7 @@
 <!-- Header with emoji and animation -->
 <h1 align="center">
-  Hi <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/05498dcc-dd5f-4fd7-87f6-6d73ab0aa9cd" />
+  Hello <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b794f9a4-bdf2-44a4-99ce-8584b20ff6a1" />
+
 , I'm Safa Hichri
 </h1>
 <h3 align="center">
