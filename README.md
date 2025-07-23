@@ -1,27 +1,33 @@
-# Hi there, I'm Safa Hichri 👋
-
-## About Me
-I'm a passionate **Software Engineering student** with a strong interest in **Artificial Intelligence** and **Cybersecurity**. I love exploring innovative technologies and building projects that combine smart algorithms with secure systems.
-
-## What I Do
-- 💻 Developing software solutions and applications  
-- 🤖 Experimenting with AI and machine learning models  
-- 🔐 Learning and practicing cybersecurity principles  
-- 📚 Always eager to learn new tools and frameworks  
-
-## Skills & Technologies
-- Programming Languages: Python, Java, C++  
-- AI & Machine Learning: TensorFlow, scikit-learn  
-- Cybersecurity: Network security basics, ethical hacking concepts  
-- Web Development: HTML, CSS, JavaScript (basics)  
-- Tools: Git, Linux, Docker (learning)  
-
-## Goals
-- Build impactful AI-powered applications  
-- Deepen my cybersecurity knowledge and skills  
-- Contribute to open-source projects related to AI and security  
-- Collaborate with passionate developers worldwide  
+<!-- Header with emoji and animation -->
+<h1 align="center">
+  Hi 👋, I'm Safa Hichri
+</h1>
+<h3 align="center">
+  A Software Engineering Student | AI & Cybersecurity Enthusiast
+</h3>
 
 ---
 
-Feel free to connect or check out my projects! 
+<!-- Profile picture -->
+<p align="center">
+  <img src="https://your-image-link-here.com/profile-pic.png" alt="Safa Hichri" width="180" style="border-radius:50%">
+</p>
+
+---
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-🤖-blue?style=flat-square" alt="AI Badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-🔒-green?style=flat-square" alt="Cybersecurity Badge" />
+  <img src="https://img.shields.io/badge/Software_Engineering-💻-orange?style=flat-square" alt="Software Engineering Badge" />
+  <img src="https://img.shields.io/badge/Student-🎓-red?style=flat-square" alt="Student Badge" />
+</p>
+
+---
+
+## About Me
+
+```diff
++ Passionate about building smart and secure applications.
++ Continuously learning and experimenting with AI models and security techniques.
+- Always curious, always growing.
