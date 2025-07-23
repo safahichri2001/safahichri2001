@@ -1,6 +1,7 @@
 <!-- Header with emoji and animation -->
 <h1 align="center">
-  Hi 👋, I'm Safa Hichri
+  Hi <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/05498dcc-dd5f-4fd7-87f6-6d73ab0aa9cd" />
+, I'm Safa Hichri
 </h1>
 <h3 align="center">
   A Software Engineering Student | AI & Cybersecurity Enthusiast
