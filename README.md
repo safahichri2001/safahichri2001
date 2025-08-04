@@ -22,7 +22,7 @@
 
 
 ---
-### 🛠️ Tech Stack
+
 
 ## 🚀 Tech Stack
 
@@ -44,6 +44,16 @@
 </table>
 
 </div>
+### 🚀 Highlight Project
+
+#### 🔐 Coworking Space Access Manager
+
+A smart system to manage:
+- ✅ Workspace reservations via mobile app
+- ✅ Entry and exit tracking using face recognition (Python + OpenCV + Tkinter)
+- ✅ Database-backed access history with real-time updates
+
+> 💡 Built for a real-world need to modernize space usage and optimize community workspaces!
 
 
 <!-- Badges -->
