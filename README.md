@@ -48,3 +48,10 @@
 
 
 <!-- Badges -->
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=safahichri2001&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safahichri2001&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
+</p>
+
