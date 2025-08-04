@@ -10,16 +10,6 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2UzZHY5bzdjZWF6emFpZmMwdHloZzUzcmc1ZGcwdDMwenV0dWk4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Safa Hichri" width="700" height="200">
 </p>
 
-<h3 align="center">📬 Connect with me:</h3>
-<p align="center">
-  <a href="mailto:safahichri77@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/safa-hichri-9386a6277/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
-
 
 ---
 
@@ -55,5 +45,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safahichri2001&layout=compact&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=safahichri2001&theme=tokyonight&hide_border=false" height="160"/>
 </div>
+
+---
+
+<h3 align="center">📬 Connect with me:</h3>
+<p align="center">
+  <a href="mailto:safahichri77@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/safa-hichri-9386a6277/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
 
