@@ -1,9 +1,21 @@
 <!-- Header with emoji and animation -->
 <h1 align="center">
   Hello 🌎, I'm Safa Hichri
-<h3 align="center">
-  A Software Engineering Student | AI & Cybersecurity Enthusiast
-</h3>
+<h2 align="center">👩‍💻 Engineering Student | Aspiring Tech Builder</h2>
+
+<p align="center">
+  Hey there! I’m <strong>Safa</strong> — a curious engineering student who loves creating useful stuff with code.<br>
+  Currently diving into <strong>AI</strong>, <strong>cybersecurity</strong>, and building <em>open-source projects</em> that (hopefully) make life easier.
+</p>
+
+<p align="center">
+  Big fan of <code>Python</code>, smart systems, and creative ideas.<br>
+  Still learning — and enjoying every bug 🐞 and breakthrough ⚡ along the way!
+</p>
+
+<p align="center">
+  <strong>Let’s build cool things. 🚀</strong>
+</p>
 
 ---
 <p align="center">
