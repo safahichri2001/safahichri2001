@@ -69,5 +69,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2056FD&width=435&lines=Your+visit+just+made+my+README+brighter+%F0%9F%8C%9F" alt="Typing SVG" /></a>
 
 
