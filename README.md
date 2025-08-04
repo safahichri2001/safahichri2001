@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2UzZHY5bzdjZWF6emFpZmMwdHloZzUzcmc1ZGcwdDMwenV0dWk4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Safa Hichri" width="700" height="200">
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2056FD&width=435&lines=Your+visit+just+made+my+README+brighter+%F0%9F%8C%9F" alt="Typing SVG" /></a>
+
 
 ---
 
@@ -69,9 +69,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
+
+---
+
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=2056FD&center=true&multiline=true&width=435&lines=Your+visit+just+made+my+README+;%F0%9F%8C%9F+brighter+%F0%9F%8C%9F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=50&color=FD00E7&center=true&multiline=true&width=435&lines=Your+visit+just+made+my+README+;%F0%9F%8C%9F+brighter+%F0%9F%8C%9F" alt="Typing SVG" />
   </a>
 </div>
+
+
+
 
