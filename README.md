@@ -48,14 +48,7 @@
 
 
 <!-- Badges -->
-<h3 align="left">📊 GitHub Stats</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=safahichri2001&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safahichri2001&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
-</p>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=safahichri2001&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
- <img src="https://github-contribution-grid.vercel.app/api?username=safahichri2001&theme=tokyo-night" alt="GitHub Contribution Graph" />
 <h2 align="center">🚀 My GitHub Stats</h2>
 
 <div align="center">
