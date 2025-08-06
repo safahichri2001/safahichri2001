@@ -83,6 +83,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=50&color=FD00E7&center=true&multiline=true&width=435&lines=Your+visit+just+made+my+README+;%F0%9F%8C%9F+brighter+%F0%9F%8C%9F" alt="Typing SVG" />
   </a>
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=safahichri2001&label=Profile+visits" alt="safahichri2001" />
+</p>
+
 
 
 
