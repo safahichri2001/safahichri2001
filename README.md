@@ -61,6 +61,10 @@
 </div>
 
 ---
+### 🔧 Featured Projects
+➡️ [MindInnovationBot](https://github.com/safahichri2001/MindInnovationBot) – Modular AI agent for tracking mental health innovation  
+➡️ [AutoSecMonitor](https://github.com/safahichri2001/AutoSecMonitor) – Cybersecurity system based on AI & MITRE ATT&CK  
+---
 
 <h3 align="center">📬 Connect with me:</h3>
 <p align="center">
@@ -73,6 +77,7 @@
 </p>
 
 ---
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
