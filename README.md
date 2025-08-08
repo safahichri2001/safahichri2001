@@ -1,6 +1,6 @@
 <!-- Header with emoji and animation -->
 <h1 align="center">
-  Hello 🌎, I'm Safa Hichri ✨
+  Hello , I'm Safa Hichri ✨
 <h2 align="center">👩‍💻 Engineering Student | Aspiring Tech Builder</h2>
 
 <p align="center">
