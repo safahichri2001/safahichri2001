@@ -61,9 +61,6 @@
 </div>
 
 ---
-### 🔧 Featured Projects
-➡️ [MindInnovationBot](https://github.com/safahichri2001/MindInnovationBot) – Modular AI agent for tracking mental health innovation  
----
 
 <h3 align="center">📬 Connect with me:</h3>
 <p align="center">
