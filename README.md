@@ -62,15 +62,22 @@
 
 ---
 
-<h3 align="center">📬 Connect with me:</h3>
+<h3 align="center">📬 Let's Connect</h3>
+
 <p align="center">
   <a href="mailto:safahichri77@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.icons8.com/color/70/gmail-new.png" alt="Email" width="50" height="50"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/safa-hichri-9386a6277/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.icons8.com/color/70/linkedin.png" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/material-outlined/70/github.png" alt="GitHub" width="50" height="50"/>
   </a>
 </p>
+
 
 ---
 
