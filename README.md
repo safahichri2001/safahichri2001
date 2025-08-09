@@ -73,7 +73,7 @@
     <img src="https://img.icons8.com/color/70/linkedin.png" alt="LinkedIn" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/safahichri2001" target="_blank">
     <img src="https://img.icons8.com/material-outlined/70/github.png" alt="GitHub" width="50" height="50"/>
   </a>
 </p>
