@@ -61,6 +61,9 @@
 </div>
 
 ---
+## 🚀 Projects  
+
+---
 
 <h3 align="center">📬 Let's Connect</h3>
 
