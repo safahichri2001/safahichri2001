@@ -62,7 +62,11 @@
 
 ---
 ## 🚀 Projects  
-
+### 🧠 MindInnovationBot  
+![LangChain](https://img.shields.io/badge/LangChain-0055FF?style=for-the-badge) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+AI-powered assistant tracking and summarizing mental health innovations in MENA.  
+🔗 [View Project](https://github.com/YourUsername/MindInnovationBot)
 ---
 
 <h3 align="center">📬 Let's Connect</h3>
