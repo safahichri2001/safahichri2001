@@ -1,93 +1,99 @@
-<!-- Header with emoji and animation -->
 <h1 align="center">
-  Hello , I'm Safa Hichri ✨
-<h2 align="center">👩‍💻 Engineering Student | Aspiring Tech Builder</h2>
+  Hi, I'm Safa Hichri 👋
+</h1>
+
+<h2 align="center">
+  🔐 AI & Cybersecurity Engineering Student 🤖
+</h2>
 
 <p align="center">
-  Hey there! I’m <strong>Safa</strong> a curious engineering student who loves creating useful stuff with code.<br>
-  Currently diving into <strong>AI</strong>, <strong>cybersecurity</strong>, and building <em>open-source projects</em> that (hopefully) make life easier.
+  Building intelligent systems to detect, prevent, and analyze cyber threats using AI.
 </p>
 
 <p align="center">
-  Big fan of <code>Python</code>, smart systems, and creative ideas.<br>
-  Still learning and enjoying every bug 🐞 and breakthrough ⚡ along the way!
-</p>
-
-<p align="center">
-  <strong>Let’s build cool things. 🚀</strong>
+  💡 Focus: AI Security • Intrusion Detection • Network Analysis • Deepfake Detection <br>
+  🚀 Currently seeking an <strong>internship</strong> in AI & Cybersecurity
 </p>
 
 ---
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2UzZHY5bzdjZWF6emFpZmMwdHloZzUzcmc1ZGcwdDMwenV0dWk4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Safa Hichri" width="700" height="200">
-</p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&width=435&lines=AI+%2B+Cybersecurity;Intrusion+Detection+Systems;Deepfake+Detection;Always+Learning+🚀" />
+</div>
 
 ---
-
-
 
 <h2 align="center">🚀 Tech Stack</h2>
 
-
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/></td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=for-the-badge)
 
 </div>
 
+---
 
-<!-- Badges -->
+<h2 align="center">🔥 Featured Projects</h2>
 
-<h2 align="center">🚀 My GitHub Stats</h2>
+<div align="center">
+
+🔐 **AI-Based Intrusion Detection System (IDS)**  
+→ Detect network attacks using Machine Learning  
+
+🎭 **Deepfake Detection System**  
+→ Identify fake images/videos using Deep Learning  
+
+📡 **Network Traffic Analysis Tool**  
+→ Analyze and classify network behavior  
+
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=safahichri2001&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safahichri2001&layout=compact&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=safahichri2001&theme=tokyonight&hide_border=false" height="160"/>
 </div>
 
+---
+
+<h2 align="center">📈 Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=safahichri2001&theme=tokyonight" height="160"/>
+</div>
 
 ---
 
 <h3 align="center">📬 Let's Connect</h3>
 
 <p align="center">
-  <a href="mailto:safahichri77@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/70/gmail-new.png" alt="Email" width="50" height="50"/>
+  <a href="mailto:safahichri77@gmail.com">
+    <img src="https://img.icons8.com/color/70/gmail-new.png" width="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/safa-hichri-9386a6277/" target="_blank">
-    <img src="https://img.icons8.com/color/70/linkedin.png" alt="LinkedIn" width="50" height="50"/>
+  <a href="https://www.linkedin.com/in/safa-hichri-9386a6277/">
+    <img src="https://img.icons8.com/color/70/linkedin.png" width="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/safahichri2001" target="_blank">
-    <img src="https://img.icons8.com/material-outlined/70/github.png" alt="GitHub" width="50" height="50"/>
+  <a href="https://github.com/safahichri2001">
+    <img src="https://img.icons8.com/material-outlined/70/github.png" width="50"/>
   </a>
 </p>
 
-
 ---
 
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=50&color=FD00E7&center=true&multiline=true&width=435&lines=Your+visit+just+made+my+README+;%F0%9F%8C%9F+brighter+%F0%9F%8C%9F" alt="Typing SVG" />
-  </a>
+  <strong>⚡ "Securing systems with intelligence."</strong>
 </div>
-
 
 
