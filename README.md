@@ -12,7 +12,6 @@
 
 <p align="center">
   💡 Focus: AI Security • Intrusion Detection • Network Analysis • Deepfake Detection <br>
-  🚀 Currently seeking an <strong>internship</strong> in AI & Cybersecurity
 </p>
 
 ---
@@ -44,14 +43,8 @@
 
 <div align="center">
 
-🔐 **AI-Based Intrusion Detection System (IDS)**  
-→ Detect network attacks using Machine Learning  
-
 🎭 **Deepfake Detection System**  
 → Identify fake images/videos using Deep Learning  
-
-📡 **Network Traffic Analysis Tool**  
-→ Analyze and classify network behavior  
 
 </div>
 
