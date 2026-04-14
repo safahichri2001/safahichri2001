@@ -16,10 +16,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&width=435&lines=AI+%2B+Cybersecurity;Intrusion+Detection+Systems;Deepfake+Detection;Always+Learning+🚀" />
-</div>
-
 ---
 
 <h2 align="center">🚀 Tech Stack</h2>
